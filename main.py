@@ -8,7 +8,7 @@ st.title("🔐 Protocolo de Seguridad: Nivel Crítico")
 
 st.write(
     """
-    Se ha detectado un intento de acceso no autorizado a los sentimientos de **Tu Nombre**.
+    Se ha detectado un intento de acceso no autorizado a los sentimientos de **Dario**.
     Para continuar, el sistema requiere validación de la contraparte.
     """
 )
