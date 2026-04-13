@@ -14,7 +14,7 @@ st.write(
 )
 
 # Un toque de humor sobre los besos
-st.warning("⚠️ Alerta: Se han detectado múltiples 'robos de besos' en los logs del sistema.")
+st.warning(" Alerta: Se han detectado múltiples 'robos de besos' en los logs del sistema.")
 
 # La pregunta clave
 st.subheader("¿Deseas formalizar este vínculo y pasar de 'Modo Prueba' a 'Producción' (Ser mi novia)?")
@@ -24,7 +24,7 @@ col1, col2 = st.columns(2)
 with col1:
     if st.button("¡SÍ, ACEPTO! ❤️"):
         st.balloons()
-        st.success("✅ Acceso concedido. Has sido promovida a Dueña del Sistema. ¡Te quiero!")
+        st.success("✅ Acceso concedido. Has sido promovida a Dueña del Sistema. ¡Me encantas!")
         st.image("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJreGZueGZ4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/lNyvk6pXU7Kog/giphy.gif")
 
 with col2:
